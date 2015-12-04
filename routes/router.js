@@ -34,19 +34,19 @@ router.post('/login', function(request, response){
             request.session.token = user.getSessionToken();
             console.log(user.getSessionToken());
             response.sendStatus('OK');
-            console.log("success")
         },
         // If there is an error
         error: function(user, error) {
           console.log("failure")
-           response.send(error);
+          response.send(error);
         }
     });  
 });
 
 /* Logout handling */
 router.post('/logout', function(request, response){
-    //TODOOO
+    Parse.User.logOut();
+    response.sendStatus('OK');
 });
 
 /* Registration handling */

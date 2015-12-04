@@ -24,4 +24,18 @@
         Subscription
     </a>
   </li>
+  <li class="sidebar">
+    <a href="#" onClick="Logout()">
+        Logout
+    </a>
+  </li>
 </ul>
+
+<script>
+function Logout(){
+      $.post( "/Logout")
+      .done(function( data ) {
+        location.reload(); //Reload page, effectively redirects to dash home
+      });
+}
+</script>
