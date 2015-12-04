@@ -33,7 +33,7 @@ router.post('/login', function(request, response){
         success: function(user) {
             request.session.token = user.getSessionToken();
             console.log(user.getSessionToken());
-            response.sendStatus('OK');
+            res.sendStatus(200)
         },
         // If there is an error
         error: function(user, error) {
@@ -62,7 +62,7 @@ router.post('/register', function(request, response){
     user.signUp(null, {
       success: function(user) {
         req.session.token = user._sessionToken;
-        response.sendStatus('OK');
+        res.sendStatus(200);
       },
       error: function(user, error) {
         response.send(error);
