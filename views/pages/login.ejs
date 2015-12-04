@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <% include ../partials/head.ejs %>
+
+  <body>
+    <div id="wrapper">
+      <div id="sidebar-wrapper">
+         <% include ../partials/nav.ejs %>
+      </div>
+
+      <div id="page-content-wrapper">
+        <div class="container-fluid">
+          <div class="main-container">
+            
+            <div id="loginContainer">
+              <input type="text" id="email" class="form-control" style="width:150px" placeholder="email"/><br />
+              <input type="password" id="password" class="form-control" style="width:150px" placeholder="password"/><br />
+              <button onClick="Login()" class="btn btn-primary" >Login</button>
+              <button onclick="Register()" class="btn btn-primary">Register</button>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <% include ../partials/footer.ejs %>
+    <script src="js/login.js"></script>
+
+  </body>
+</html>

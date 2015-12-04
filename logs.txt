@@ -1,0 +1,40 @@
+
+> dashboard@0.0.0 start C:\proj\tabsaver\tabsaverdashboard
+> node ./bin/www
+
+--------------
+Successfully retrieved 8 deals.
+IewAwop83b - 10 - Tacos
+pWeweTmyn9 - 1 - Jager Bombs
+FvwDsyR9cQ - 2 - Mimosas
+75VaDOppXr - 1 - Tequila shots. Tequila time!
+nzJhQq5S5p - 0 - Draft beer
+ixubSrYthD - 0 - Miller Lite Bottles
+izQr9zqpfk - 8 - Wing Baskets
+iud0o4rhQ7 - 7 - Burgers
+--------------
+Successfully retrieved 24 users.
+establishment: Bo James - email: bojames@bojames.com - username: bojames - twitter: bojamesbar - phoneNum: 319-337-4702 - address: 118 E Washington St - city: Iowa City - state: Iowa - zip: 52240
+establishment: Airliner - email: airliner@airliner.com - username: airliner - twitter: theairlinerbar - phoneNum: 319-351-9259 - address: 22 South Clinton Street - city: Iowa City - state: Iowa - zip: 52240
+establishment: Quinton's - email: quintons@quintons.com - username: quintons - twitter: quintons_ic - phoneNum: 319-354-7074 - address: 215 E Washington St - city: Iowa City - state: Iowa - zip: 52240
+establishment: Old Chicago - email: oldchicago@oldchicago.com - username: oldchicago - twitter: oldchicago1976 - phoneNum: 319-248-1220 - address: 75 2nd St - city: Coralville - state: Iowa - zip: 52241
+establishment: J & A Tap - email: jatap@jatap.com - username: jatap - twitter: jatap - phoneNum: 319-626-3033 - address: 440 N Dubuque St - city: North Liberty - state: Iowa - zip: 52317
+establishment: Bardot - email: bardot@bardot.com - username: bardot - twitter: bardotiowa - phoneNum: 319-333-1515 - address: 347 South Gilbert St - city: Iowa City - state: Iowa - zip: 52242
+establishment: Share Wine Lounge & Small Plate Bistro - email: reservations@sharewinelounge.com - username: share - twitter: shareIC - phoneNum: 319-354-4646 - address: 210 S Dubuque St - city: Iowa City - state: Iowa - zip: 52240
+establishment: The Summit - email: summit@summit.com - username: summit - twitter: thesummitic - phoneNum: 319-354-7482 - address: 10 S Clinton St - city: Iowa City - state: Iowa - zip: 52240
+establishment: Mondo's Saloon - email: mondossaloon@gmail.com - username: mondos - twitter: undefined - phoneNum: 319-354-3837 - address: 112 E College St - city: Iowa City - state: Iowa - zip: 52240
+establishment: Short's Burger & Shine - email: undefined - username: shorts - twitter: shortsburger - phoneNum: 319-337-4678 - address: 18 S Clinton St - city: Iowa City - state: Iowa - zip: 52240
+establishment: The Sports Column - email: billy.bryce@sportscolumnbar.com - username: spoco - twitter: spocoic - phoneNum: 319-356-6902 - address: 12 S Dubuque St - city: Iowa City - state: Iowa - zip: 52240
+establishment: Martinis Bar - email: undefined - username: martinis - twitter: martinisbaric - phoneNum: 319-351-5536 - address: 127 E College St - city: Iowa City - state: Iowa - zip: 52240
+establishment: Brother's Bar & Grill - email: undefined - username: brothers - twitter: brothersbaric - phoneNum: 319-338-6373 - address: 125 S Dubuque St - city: Iowa City - state: Iowa - zip: 52240
+establishment: Graze - email: graze@foodguru.com - username: graze - twitter: grazeiowacity - phoneNum: 319-887-5477 - address: 115 E College Street - city: Iowa City - state: Iowa - zip: 52240
+establishment: Pints Iowa City - email: pints.iowacity@gmail.com - username: pints - twitter: pintsic1 - phoneNum: 319-351-9898 - address: 118 S Clinton St - city: Iowa City - state: Iowa  - zip: 52240
+establishment: Stella - email: undefined - username: stella - twitter: stellaiowacity - phoneNum: 319-887-5564 - address: 1006 Melrose Ave - city: Iowa City - state: Iowa - zip: 52246
+establishment: Joe's Place - email: joesplaceic@gmail.com - username: joesplace - twitter: joesplaceic - phoneNum: 319-338-6717 - address: 115 Iowa Ave - city: Iowa City - state: Iowa - zip: 52240
+establishment: Pop's BBQ - email: undefined - username: popsbbq - twitter: undefined - phoneNum: 319-354-7677 - address: 130 N Dubuque St - city: Iowa City - state: Iowa - zip: 52240
+establishment: Sams Pizza - email: undefined - username: samspizza - twitter: samspizzaic - phoneNum: 319-337-8200 - address: 441 S Gilbert St - city: Iowa City - state: Iowa - zip: 52240
+establishment: Eden Lounge & Nightclub - email: info@edenloungeic.com - username: edenlounge - twitter: edenloungeic - phoneNum: 319-359-1376 - address: 217 Iowa Ave - city: Iowa City - state: Iowa - zip: 52240
+establishment: Micky's Irish Pub - email: undefined - username: mickys - twitter: mickysic - phoneNum: 319-338-6860 - address: 11 S Dubuque St - city: Iowa City - state: Iowa - zip: 52240
+establishment: The Union Bar - email: undefined - username: theunion - twitter: theunionbaric - phoneNum: 319-339-4646 - address: 121 E College St - city: Iowa City - state: Iowa - zip: 52240
+establishment: Blue Moose Tap House - email: undefined - username: bluemoose - twitter: bluemooseic - phoneNum: 319-358-9206 - address: 211 Iowa Ave - city: Iowa City - state: Iowa - zip: 52240
+establishment: undefined - email: undefined - username: teamappyhour - twitter: appyhourmobile - phoneNum: undefined - address: undefined - city: undefined - state: undefined - zip: undefined
